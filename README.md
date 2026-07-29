@@ -5,6 +5,31 @@ A zero-to-one experiential travel product created for Kellogg MBA students and d
 I conceived and launched the initiative after identifying an opportunity to create a distinctive, once-in-a-lifetime experience for the Kellogg community.
 
 The project progressed from initial concept and demand validation through partnership development, pricing, digital product design, participant recruitment, and launch.
+## Product Preview
+
+### Homepage
+
+![Kellogg Antarctica Trek homepage](homepage.png)
+
+### Community Forum
+
+![Participant community forum](forum.png)
+
+### Expedition Gallery
+
+![Antarctica expedition gallery](gallery.png)
+
+### Interactive Clothing Guide
+
+![Interactive Antarctica clothing guide](interactive-clothing-guide.png)
+
+### Expedition Sound Experience
+
+![Antarctica sound experience](sound.png)
+
+### Interactive Trivia
+
+![Antarctica trivia experience](trivia.png)
 
 ## Overview
 
